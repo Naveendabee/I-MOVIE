@@ -53,7 +53,7 @@ Yᴏᴜ Cᴀɴ Dᴇᴘᴏʟʏ Tʜɪs Rᴇᴘᴏ AɴʏWʜᴇʀᴇ
 <details><summary>Dᴇᴘᴏʟʏ Tᴏ Hᴇʀᴏᴋᴜ {ᴘᴀɪᴅ}</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/TamilanBotsZ/AwesomeFilterPro">
+<a href="https://heroku.com/deploy?template=https://github.com/Naveendabee/I-MOVIE/tree/Tamilans-Working-Branch">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
   </a>
   </p>
